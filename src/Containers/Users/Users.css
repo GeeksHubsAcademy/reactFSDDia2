@@ -1,0 +1,17 @@
+.cardAlumno {
+    height: 7em;
+    width: 15em;
+  
+    border-radius: 1em;
+  
+    background-color: lightgray;
+  
+    color: yellowgreen;
+  
+    margin: 1em;
+  
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }

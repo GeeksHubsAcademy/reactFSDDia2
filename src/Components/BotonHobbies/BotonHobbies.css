@@ -1,0 +1,19 @@
+
+.hobbies {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    width: 4em;
+    height: 3em;
+
+    background-color: slateblue;
+    border-radius: 1em;
+}
+
+
+.hobbieList {
+    color: white;
+    font-size: 0.5em;
+}
